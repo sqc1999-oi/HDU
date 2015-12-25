@@ -109,6 +109,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1506 Largest Rectangle in a
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2577 How to Type", "2577 How to Type\2577 How to Type.vcxproj", "{0D7902A4-CF95-4931-9470-869B808F494B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1402 A × B Problem Plus", "1402 A × B Problem Plus\1402 A × B Problem Plus.vcxproj", "{6EF20174-AF1A-4F52-B1A2-B6EF3189BCE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -553,6 +555,16 @@ Global
 		{0D7902A4-CF95-4931-9470-869B808F494B}.Release|x64.Build.0 = Release|x64
 		{0D7902A4-CF95-4931-9470-869B808F494B}.Release|x86.ActiveCfg = Release|Win32
 		{0D7902A4-CF95-4931-9470-869B808F494B}.Release|x86.Build.0 = Release|Win32
+		{6EF20174-AF1A-4F52-B1A2-B6EF3189BCE0}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6EF20174-AF1A-4F52-B1A2-B6EF3189BCE0}.Debug|x64.ActiveCfg = Debug|x64
+		{6EF20174-AF1A-4F52-B1A2-B6EF3189BCE0}.Debug|x64.Build.0 = Debug|x64
+		{6EF20174-AF1A-4F52-B1A2-B6EF3189BCE0}.Debug|x86.ActiveCfg = Debug|Win32
+		{6EF20174-AF1A-4F52-B1A2-B6EF3189BCE0}.Debug|x86.Build.0 = Debug|Win32
+		{6EF20174-AF1A-4F52-B1A2-B6EF3189BCE0}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6EF20174-AF1A-4F52-B1A2-B6EF3189BCE0}.Release|x64.ActiveCfg = Release|x64
+		{6EF20174-AF1A-4F52-B1A2-B6EF3189BCE0}.Release|x64.Build.0 = Release|x64
+		{6EF20174-AF1A-4F52-B1A2-B6EF3189BCE0}.Release|x86.ActiveCfg = Release|Win32
+		{6EF20174-AF1A-4F52-B1A2-B6EF3189BCE0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
