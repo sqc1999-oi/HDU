@@ -125,8 +125,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4010 Query on The Trees", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5398 GCD Tree", "5398 GCD Tree\5398 GCD Tree.vcxproj", "{1CE1F3E0-6C6B-450E-8692-9BA1B76F1ED6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2665 Kth number", "2665 Kth number\2665 Kth number.vcxproj", "{3DAE6B63-C14A-4459-A5FE-1203C43D8686}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -651,16 +649,6 @@ Global
 		{1CE1F3E0-6C6B-450E-8692-9BA1B76F1ED6}.Release|x64.Build.0 = Release|x64
 		{1CE1F3E0-6C6B-450E-8692-9BA1B76F1ED6}.Release|x86.ActiveCfg = Release|Win32
 		{1CE1F3E0-6C6B-450E-8692-9BA1B76F1ED6}.Release|x86.Build.0 = Release|Win32
-		{3DAE6B63-C14A-4459-A5FE-1203C43D8686}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{3DAE6B63-C14A-4459-A5FE-1203C43D8686}.Debug|x64.ActiveCfg = Debug|x64
-		{3DAE6B63-C14A-4459-A5FE-1203C43D8686}.Debug|x64.Build.0 = Debug|x64
-		{3DAE6B63-C14A-4459-A5FE-1203C43D8686}.Debug|x86.ActiveCfg = Debug|Win32
-		{3DAE6B63-C14A-4459-A5FE-1203C43D8686}.Debug|x86.Build.0 = Debug|Win32
-		{3DAE6B63-C14A-4459-A5FE-1203C43D8686}.Release|Any CPU.ActiveCfg = Release|Win32
-		{3DAE6B63-C14A-4459-A5FE-1203C43D8686}.Release|x64.ActiveCfg = Release|x64
-		{3DAE6B63-C14A-4459-A5FE-1203C43D8686}.Release|x64.Build.0 = Release|x64
-		{3DAE6B63-C14A-4459-A5FE-1203C43D8686}.Release|x86.ActiveCfg = Release|Win32
-		{3DAE6B63-C14A-4459-A5FE-1203C43D8686}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
