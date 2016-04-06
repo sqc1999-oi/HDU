@@ -30,7 +30,7 @@ seg_node *update(seg_node *n, int l, int r, int k, long long val)
 	if (l != r - 1)
 		if (k < (l + r) / 2) x->l = update(x->l, l, (l + r) / 2, k, val);
 		else x->r = update(x->r, (l + r) / 2, r, k, val);
-		return x;
+	return x;
 }
 long long query(seg_node *x, int l, int r, int ql, int qr)
 {
