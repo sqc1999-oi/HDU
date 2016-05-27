@@ -68,7 +68,6 @@ void get_focus(int u, int fa, int n, int &ans, int &min)
 }
 int calc_ans(int u)
 {
-
 	map<long long, int> m;
 	int ans = 0;
 	if (sg[u] == 0) ans++;
