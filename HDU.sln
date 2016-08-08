@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.25123.0
+VisualStudioVersion = 15.0.25428.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1040 As Easy As A+B", "1040 As Easy As A+B\1040 As Easy As A+B.vcxproj", "{6A9C8E78-1492-401D-98E5-95D4CA883175}"
 EndProject
@@ -126,6 +126,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5398 GCD Tree", "5398 GCD Tree\5398 GCD Tree.vcxproj", "{1CE1F3E0-6C6B-450E-8692-9BA1B76F1ED6}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5140 Hun Gui Wei Company", "5140 Hun Gui Wei Company\5140 Hun Gui Wei Company.vcxproj", "{9F284572-BBFE-499E-B16F-D27107668313}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5126 stars", "5126 stars\5126 stars.vcxproj", "{BC1129EE-2C21-419F-9560-14B555288A92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -661,6 +663,16 @@ Global
 		{9F284572-BBFE-499E-B16F-D27107668313}.Release|x64.Build.0 = Release|x64
 		{9F284572-BBFE-499E-B16F-D27107668313}.Release|x86.ActiveCfg = Release|Win32
 		{9F284572-BBFE-499E-B16F-D27107668313}.Release|x86.Build.0 = Release|Win32
+		{BC1129EE-2C21-419F-9560-14B555288A92}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{BC1129EE-2C21-419F-9560-14B555288A92}.Debug|x64.ActiveCfg = Debug|x64
+		{BC1129EE-2C21-419F-9560-14B555288A92}.Debug|x64.Build.0 = Debug|x64
+		{BC1129EE-2C21-419F-9560-14B555288A92}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC1129EE-2C21-419F-9560-14B555288A92}.Debug|x86.Build.0 = Debug|Win32
+		{BC1129EE-2C21-419F-9560-14B555288A92}.Release|Any CPU.ActiveCfg = Release|Win32
+		{BC1129EE-2C21-419F-9560-14B555288A92}.Release|x64.ActiveCfg = Release|x64
+		{BC1129EE-2C21-419F-9560-14B555288A92}.Release|x64.Build.0 = Release|x64
+		{BC1129EE-2C21-419F-9560-14B555288A92}.Release|x86.ActiveCfg = Release|Win32
+		{BC1129EE-2C21-419F-9560-14B555288A92}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
