@@ -1,4 +1,4 @@
-#pragma warning(disable:4018)
+﻿#pragma warning(disable:4018)
 #include <iostream>
 #include <cstdio>
 #include <algorithm>
